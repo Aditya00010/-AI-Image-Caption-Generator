@@ -36,6 +36,11 @@ The model was trained using an existing implementation and dataset.
 
 ---
 
+🌐 Live Demo
+
+🚀 Try the app here:
+👉 https://visioncaption-aditya-2026.streamlit.app/
+
 ## ⚙️ How It Works
 
 1. Image is uploaded by the user
