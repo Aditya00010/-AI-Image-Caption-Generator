@@ -93,7 +93,7 @@ streamlit run app.py
 
 * CNN: VGG16 / MobileNetV2
 * RNN: LSTM
-* Dataset: Flickr8k
+* Dataset: Flickr8k (https://www.kaggle.com/datasets/adityajn105/flickr8k)
 * Architecture: Encoder-Decoder (CNN-LSTM)
 
 ---
